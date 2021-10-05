@@ -897,10 +897,10 @@
     "@babel/types" "^7.4.4"
     esutils "^2.0.2"
 
-"@babel/runtime@^7.14.6", "@babel/runtime@^7.8.4":
-  version "7.15.3"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.15.3.tgz#2e1c2880ca118e5b2f9988322bd8a7656a32502b"
-  integrity sha512-OvwMLqNXkCXSz1kSm58sEsNuhqOx/fKpnUnKnFB5v8uDda5bLNEHNgKPvhDN6IU0LDcnHQ90LlJ0Q6jnyBSIBA==
+"@babel/runtime@^7.15.4", "@babel/runtime@^7.8.4":
+  version "7.15.4"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.15.4.tgz#fd17d16bfdf878e6dd02d19753a39fa8a8d9c84a"
+  integrity sha512-99catp6bHCaxr4sJ/DbTGgHS4+Rs2RVd2g7iOap6SLGPDknRK9ztKNsE/Fg6QhSeh1FGE5f6gHGQmvvn3I3xhw==
   dependencies:
     regenerator-runtime "^0.13.4"
 
@@ -4039,11 +4039,11 @@ istanbul-reports@^3.0.2:
     istanbul-lib-report "^3.0.0"
 
 itertools@^1.7.0:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/itertools/-/itertools-1.7.0.tgz#a3a725f81dea260a570a12670dbdb2cef937a3f3"
-  integrity sha512-HSS1CnDbL+3DDDCoVvnwaTH8UsvsBwkwN9HhiL2m1E0Cmr6pbFBxmMjn2wXfgH2TsflWDEJXdZMWuoMbnGSIfg==
+  version "1.7.1"
+  resolved "https://registry.yarnpkg.com/itertools/-/itertools-1.7.1.tgz#39fb110782b7f57b9c14782c25fe35bd3997d4fc"
+  integrity sha512-0sC8t0HYOH0wb/mU5eLmp2g19yfhqho12Q6kCX6MGkNEEJQz97LIXzZ2bbIDyzBnQGcMixmcAtByzKjiaFkw8Q==
   dependencies:
-    "@babel/runtime" "^7.14.6"
+    "@babel/runtime" "^7.15.4"
 
 jest-changed-files@^27.0.6:
   version "27.0.6"
